@@ -41,7 +41,7 @@ My work centers around Platform Engineering, Kubernetes, Infrastructure as Code,
 
 | Repository | Description | Status |
 |------------|-------------|--------|
-| ⭐ **platform-foundation-aws** | Enterprise AWS Platform Foundation | 🚧 In Progress |
+| ⭐ **[platform-foundation-aws](https://github.com/atif-ali-aa/platform-foundation-aws)** | Enterprise AWS Platform Foundation built with Terraform | 🚧 In Progress |
 | ⭐ **platform-gitops** | GitOps with ArgoCD and Kubernetes | 📅 Planned |
 | ⭐ **platform-automation** | Python Automation for AWS | 📅 Planned |
 | ⭐ **platform-runbooks** | Production Runbooks & Incident Response | 📅 Planned |
@@ -54,9 +54,7 @@ My work centers around Platform Engineering, Kubernetes, Infrastructure as Code,
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=atif-ali-aa&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atif-ali-aa&layout=compact&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atif-ali-aa&theme=github_dark" />
 
 </div>
 
